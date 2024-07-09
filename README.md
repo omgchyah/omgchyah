@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm passionate about web development and translati
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Composer, VS Code
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rossana-liendo-7b033848/)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rossana-liendo-7b033848/)
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
