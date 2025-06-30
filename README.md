@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about web development and translati
 - Managing databases using MySQL and MongoDB
 
 ## 🛠️ My Skills
-- **Languages**: PHP, JavaScript, HTML, CSS, Java
+- **Languages**: PHP, Python, JavaScript, HTML, CSS
 - **Frameworks**: Laravel
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Composer, VS Code
