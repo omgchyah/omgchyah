@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about web development and translati
 ## 🚀 About Me
 - 🔭 I’m currently working on learning about APIs
 - 🌱 I’m currently learning Laravel, Livewire and Algorithms
-- 💬 Ask me about my first project in Laravel: Hunger Killer (which I deleted when I was organizing my repos😭)!
+- 💬 Ask me about my first project in Laravel: Hunger Killer!
 - 📫 How to reach me: rossana.liendo@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I make the best brownies!
