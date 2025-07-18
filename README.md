@@ -21,8 +21,15 @@ Welcome to my GitHub profile! I'm passionate about web development and translati
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Composer, VS Code
 
+- ## 🌱 Currently Learning
+
+- React & Angular (Frontend Frameworks)
+- UI/UX Design & Accessibility Best Practices
+- Advanced Git and Docker
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rossana-liendo-7b033848/)
+- [Portfolio (soon)](https://tuweb.dev)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
